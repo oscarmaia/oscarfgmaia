@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Maia
 - 🌱 I’m currently learning Web Development
-- Javascript || HTML || CSS || React || Node.js || Express || SQL and NoSQL
+- Javascript | HTML | CSS | React | Node.js | Express | SQL and NoSQL
 - 📫 How to reach me: email: oscarfgmaia@gmail.com
  
 <!---
