@@ -3,13 +3,24 @@
 - Software Engineer | Full Stack Developer | Front end | Back end | Javascript | React | Node.js | Typescript
 - 📫 How to reach me: email: oscarfgmaia@gmail.com
 
-## 📊 GitHub Stats:
-<div>
-  <img align="center" witdh="50%" src="https://github-readme-stats.vercel.app/api?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="oscarfgmaia" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="oscarfgmaia" />
-</div>
+##📖 GitHub Stats</b></summary>
+  <br/>
+    <p align="center">
+        <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=oscarfgmaia&hide_border=true&theme=nightowl" />
+    </p>
+    <p align="center">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=oscarfgmaia&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfgmaia&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
+    </p>
+</details>
 
-## 🖥️ Tools, languages, and other things that I like to work with:
+<hr/>
+<br/>
+
+<p align="right">
+<img src="https://komarev.com/ghpvc/?username=oscarfgmaia&style=plastic&label=Views"/>
+</p>
+
+##🖥️ Tools, languages, and other things that I like to work with:
 <div align=center>
  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
