@@ -33,3 +33,4 @@
 <img src="https://komarev.com/ghpvc/?username=oscarfgmaia&style=plastic&label=Views"/>
 </p>
 
+ ![Snake animation](https://github.com/oscarfgmaia/oscarfgmaia/blob/output/github-contribution-grid-snake.svg)
