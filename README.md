@@ -5,8 +5,8 @@
 
 ## 📊 GitHub Stats:
 <div>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="oscarfgmaia" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="oscarfgmaia" />
+  <img align="center" witdh="50%" src="https://github-readme-stats.vercel.app/api?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false" alt="oscarfgmaia" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oscarfgmaia&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="oscarfgmaia" />
 </div>
 
 ## 🖥️ Tools, languages, and other things that I like to work with:
