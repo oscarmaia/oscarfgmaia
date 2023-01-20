@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oscar Maia
 - 🌱 I’m currently learning Web Development
-- Software Engineer | Full Stack Developer | Front end | Back end
+- 📚 Software Engineer | Desenvolvedor Full Stack | Front end | Back end | Javascript | React | Node.js | Typescript
 - 📫 How to reach me: email: oscarfgmaia@gmail.com
 
 <hr/>
